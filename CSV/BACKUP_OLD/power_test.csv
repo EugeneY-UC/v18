@@ -1,0 +1,10 @@
+ID,Power Line Name,MaxAmp,Active
+1,1,20,OFF
+2,6,40,OFF
+3,5,40,OFF
+4,2,80,ON
+5,9,50,OFF
+8,3,100,ON
+6,33,200,ON
+7,44,60,OFF
+9,88,60,ON
